@@ -163,4 +163,3 @@ sudo systemctl reload nginx
 
 ## License
 
-当前仓库未附带开源许可证。若计划公开使用，建议补充 `MIT` 或 `Apache-2.0`。
